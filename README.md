@@ -1,2 +1,5 @@
-# my-awesome-project
-Git/GitHub 3 : Remote
+achievements
+
+ "J'ai réussi à faire clone, pull et je m'apprête à faire push"
+ 
+
